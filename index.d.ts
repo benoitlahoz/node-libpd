@@ -16,7 +16,7 @@ declare module "node-libpd" {
    * {
    *  numInputChannels: 1,
    *  numOutputChannels: 2,
-   *  sampleRate: 4800,
+   *  sampleRate: 48000,
    *  ticks: 1
    * }
    */
